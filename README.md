@@ -2,11 +2,10 @@
 
 Here is a concise README.md file for your ecommerce-app project:
 
-```markdown
+
 # E-commerce App
 
 An **E-commerce application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This project provides a platform for users to browse products, add them to a cart, and make payments. It also includes features for user authentication and product management.
----
 
 ## Features
 
@@ -16,8 +15,6 @@ An **E-commerce application** built using the **MERN Stack** (MongoDB, Express.j
 - **Order Management**: Place orders and track them.
 - **Payment Integration**: Simulate payments for orders.
 
----
-
 ## Technologies Used
 
 ### MERN Stack
@@ -26,14 +23,13 @@ An **E-commerce application** built using the **MERN Stack** (MongoDB, Express.j
 - **React.js**: Frontend library for building user interfaces. [Learn More](https://reactjs.org/docs/getting-started.html)
 - **Node.js**: JavaScript runtime for the backend server. [Learn More](https://nodejs.org/en/docs/)
 
----
 
 ## Installation
-
+```
 ### Prerequisites
 - Node.js and npm installed
 - MongoDB installed and running locally
-
+```
 ### Steps
 1. Clone the repository:
    ```bash
@@ -67,15 +63,6 @@ An **E-commerce application** built using the **MERN Stack** (MongoDB, Express.j
    cd client
    npm start
    ```
-
----
-
----
-
----
-
----
-
 ## Author
 
 - **Meet Patel** - [GitHub Profile - Meet](https://github.com/meet41)
