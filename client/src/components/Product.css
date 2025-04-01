@@ -1,0 +1,97 @@
+.product-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .filter-section select {
+    padding: 8px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .product-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .product-card h3 {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .product-card p {
+    margin: 5px 0;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
+  .product-actions {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+  }
+  
+  .product-actions button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.2s;
+  }
+  
+  .product-actions .edit {
+    background-color: #ffc107;
+    color: #fff;
+  }
+  
+  .product-actions .edit:hover {
+    background-color: #e0a800;
+  }
+  
+  .product-actions .delete {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .product-actions .delete:hover {
+    background-color: #c82333;
+  }
+  
+  .product-actions button:first-child {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .product-actions button:first-child:hover {
+    background-color: #0056b3;
+  }  
