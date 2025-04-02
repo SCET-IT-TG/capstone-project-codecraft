@@ -1,8 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ToSp6n5_)
 
-Here is a concise README.md file for your ecommerce-app project:
-
-
 # E-commerce App
 
 An **E-commerce application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This project provides a platform for users to browse products, add them to a cart, and make payments. It also includes features for user authentication and product management.
@@ -69,4 +66,5 @@ An **E-commerce application** built using the **MERN Stack** (MongoDB, Express.j
 - **Hina Padsala** - [GitHub Profile - Hina](https://github.com/hina1555)
 - **Hetvi Lad** - [GitHub Profile - Hetvi](https://github.com/hetvi1771)
 - **Vaishnavi Patel** - [GitHub Profile - Vaishnavi](https://github.com/vaishnavi9512)
+- Vidhi Patel
 ```
